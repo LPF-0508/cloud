@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.cloud</groupId>
+    <artifactId>cloud</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>cloud</name>
+    <description>微服务-TEST</description>
+    <packaging>pom</packaging>
+    <modules>
+        <module>cloud-channel</module>
+        <module>cloud-content</module>
+        <module>cloud-member</module>
+        <module>cloud-question</module>
+        <module>cloud-study</module>
+    </modules>
+
+</project>
